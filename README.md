@@ -32,3 +32,6 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/paprika-mah/contributions.svg" />
   </a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paprika-mah&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paprika-mah&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
