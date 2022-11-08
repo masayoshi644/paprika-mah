@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/paprika-mah/paprika-mah/main/profile-summary-card-output/github/4-productive-time.svg)
+```
+
+    
